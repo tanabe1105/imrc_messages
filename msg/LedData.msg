@@ -1,0 +1,6 @@
+int32 led_index
+int32 led_color_red
+int32 led_color_green
+int32 led_color_blue
+int32 led_mode
+float32 blink_duration

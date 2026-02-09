@@ -1,0 +1,5 @@
+int32 led_index
+string led_color
+float32 led_brightness
+string led_mode
+float32 blink_duration
