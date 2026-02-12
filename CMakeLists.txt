@@ -19,6 +19,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/GeneralCommand.msg"
   "msg/ConpanelLedControl.msg"
   "msg/ConpanelBuzzerControl.msg"
+
+  "srv/ProgressInfo.srv"
 )
 # ---
 
